@@ -4,4 +4,8 @@ class Student
     greeting
   end
 
+  def raise_hand
+    'Pick me!'
+  end
+
 end
